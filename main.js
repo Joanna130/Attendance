@@ -25,5 +25,5 @@ function sorting()
 {
     name_of_the_student_array.sort();
     console.log(name_of_the_student_array);
-    document.getElementById("display_name").innerrHTML = name_of_the_student_array;
+    document.getElementById("display_name").innerHTML = name_of_the_student_array;
 }
