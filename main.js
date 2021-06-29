@@ -3,10 +3,10 @@ name_of_the_student_array = [];
 function submit()
 {
 
-    var name_1 = document.getElementById("stud1").Value;
-    var name_2 = document.getElementById("stud2").Value;
-    var name_3 = document.getElementById("stud3").Value;
-    var name_4 = document.getElementById("stud4").Value;
+    var name_1 = document.getElementById("stud1").value;
+    var name_2 = document.getElementById("stud2").value;
+    var name_3 = document.getElementById("stud3").value;
+    var name_4 = document.getElementById("stud4").value;
 
     name_of_the_student_array.push(name_1);
     name_of_the_student_array.push(name_2);
